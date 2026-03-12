@@ -1,0 +1,11 @@
+,student_id,student_name,course_name,course_duration,total_fees
+0,1,Akanksha,Data Science,6 Months,50000
+1,2,Priya,Python,3 Months,25000
+2,3,Rahul,Web Dev,4 Months,35000
+3,4,Sonia,Data Science,6 Months,50000
+4,5,Vikas,AI,8 Months,65000
+5,6,Anjali,Python,3 Months,25000
+6,7,Abhishek,ML,7 Months,60000
+7,8,Riya,Web Dev,4 Months,35000
+8,9,Gungun,AI,8 Months,65000
+9,10,Bhavna,Data Science,6 Months,50000
